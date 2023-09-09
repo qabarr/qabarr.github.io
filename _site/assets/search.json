@@ -1,0 +1,61 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Aspirations",
+        "excerpt": "Someday this might include crosswords that I’ve made\n",
+        "content": "Someday this might include crosswords that I’ve made\n",
+        "url": "/general/2023/09/08/aspriations/"
+      },
+    
+  
+  
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Curriculum Vitae",
+    "excerpt": "\n",
+    "content": "For a list of publications that will stay more up-to-date, check out my Google Scholar profile.\n\n\n\n",
+    "url": "/cv/"
+  },
+  
+  {
+    "title": "Crosswords lovingly made",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/xwords/"
+  },
+  
+  {
+    "title": "Quin Abarr",
+    "excerpt": "\n",
+    "content": "I’m a physicist at the University of Delaware, where I do astroparticle physics when I’m not procrastinating.\n\n\n  \n  \n\n\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Other things",
+    "excerpt": "\n",
+    "content": "When I’m not working, I enjoy:\n\n  Playing board games (check out my BoardGameGeek profile)\n  Watching movies (check out my Letterboxd profile)\n  Riding my bike through White Clay Creek State park\n  Solving crossword puzzles (one of my early pandemic projects was writing crosswords, and one day soon I will do it again and post them here)\n\n",
+    "url": "/personal/"
+  },
+  
+  {
+    "title": "Research",
+    "excerpt": "\n",
+    "content": "Since fall of 2020 I’ve been in Newark, Delaware working on the PUEO project (and its predecessor ANITA), which is a balloon-borne neutrino detector that flies over Antarctica with the aim of detecting radio signals produced by ultrahigh energy neutrinos interacting in the ice sheet. I primarily work on the navigation subsystem, which is the most critical part of the experiment – you can’t know where any signals are coming from if you don’t know where the payload is and how it’s oriented! A decent chunk of my time is also spent working on the simulation software for PUEO.\n\nBefore this, I was a graduate student at Washington University in St. Louis. I worked on a different balloon experiment, X-Calibur, which detects polarized X-rays in order to learn about the geometry of compact objects such as black holes and neutron stars. I went to Antarctica for the launch of X-Calibur in 2018, where we got enough data to get a grant for XL-Calibur, which flew from Sweden across the ocean into Canada after I left the project.\n\n\n  \n  A photo I took of X-Calibur in McMurdo Station, Antarctica, awaiting launch. December 2018\n\n\n",
+    "url": "/research/"
+  }
+  
+]
+
