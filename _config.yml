@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Quin Abarr'
 description: 'All About Quin'
 permalink: pretty
-logo: /assets/images/ennui.jpg
+logo: /assets/images/qa.png
 
 # Pagination
 paginate: 5
