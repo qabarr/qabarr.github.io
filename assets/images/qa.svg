@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="qa.svg"
    inkscape:export-filename="qa.png"
    inkscape:export-xdpi="125.17"
    inkscape:export-ydpi="125.17"
@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.75633418"
-     inkscape:cx="473.33574"
-     inkscape:cy="509.69533"
+     inkscape:zoom="1.0696181"
+     inkscape:cx="322.54504"
+     inkscape:cy="554.87096"
      inkscape:window-width="1902"
      inkscape:window-height="1035"
      inkscape:window-x="6"
@@ -75,25 +75,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="text1"
-       style="font-style:normal;font-weight:normal;font-size:105.833px;line-height:1.25;font-family:sans-serif;fill:#c906dd;fill-opacity:1;stroke:none;stroke-width:0.603124"
-       d="m 68.844249,177.80529 c -1.814231,0 -3.632402,0.18728 -5.742027,0.37529 l -16.800362,9.41587 c 3.512123,-1.30055 6.873756,-1.80031 8.775864,-1.80031 26.921092,0 45.275836,17.31291 83.210106,17.31291 18.35529,0 30.59292,-4.75684 41.91201,-14.84003 l -4.89506,-2.28244 c -6.42434,4.94648 -16.82519,6.65875 -25.39099,6.65875 -25.69741,0 -49.2537,-14.84004 -81.069541,-14.84004 z m -5.293899,0.15891 -0.07169,0.005 -0.195682,0.10965 c 0.0894,-0.0401 0.17802,-0.0744 0.267384,-0.11433 z" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:173.359px;line-height:1.25;font-family:sans-serif;fill:#c906dd;fill-opacity:1;stroke:none;stroke-width:0.433399"
-       x="92.186371"
-       y="224.97739"
-       id="text2"
-       transform="scale(0.91122101,1.0974286)"><tspan
-         sodipodi:role="line"
-         id="tspan2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:173.359px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';fill:#c906dd;fill-opacity:1;stroke-width:0.433399"
-         x="92.186371"
-         y="224.97739">A</tspan></text>
-    <path
-       id="text1-6"
-       style="font-style:normal;font-weight:normal;font-size:105.833px;line-height:1.25;font-family:sans-serif;fill:#c906dd;fill-opacity:1;stroke:none;stroke-width:0.473666"
-       d="m 81.797305,44.349219 c -16.981709,0 -31.887859,7.61023 -41.322152,21.117905 -7.547416,10.844189 -12.264606,21.68855 -12.264606,41.854936 0,33.4838 19.812182,53.84015 45.284743,57.45487 -10.377711,5.70747 -20.001521,14.07832 -26.228155,21.68829 -1.3208,1.33174 -2.641242,2.8543 -3.395983,4.37629 l 6.981767,3.61456 c 2.075538,-3.04398 4.339063,-5.89756 6.791963,-8.3708 0.274168,-0.19138 0.541883,-0.3194 0.814447,-0.48306 l 10.362095,-9.41587 c -0.016,0.002 -0.02799,0.004 -0.04332,0.005 0.05188,-0.0378 0.102879,-0.0701 0.154759,-0.10767 l 0.120693,-0.10966 0.04422,-0.005 c 8.756358,-6.32698 17.298558,-10.07019 23.077248,-11.57382 14.151406,-2.66349 25.471956,-10.65329 33.208066,-22.06824 6.79268,-10.27345 10.7555,-21.11836 10.7555,-38.62126 0,-36.908289 -23.58558,-59.357352 -54.341331,-59.357352 z m -2.075737,7.60999 c 21.698842,0 38.114122,19.976552 38.114122,55.362851 0,31.20082 -13.77384,50.22575 -32.642405,50.22575 -20.189365,0 -38.680713,-20.1668 -38.680713,-53.46037 0,-36.147292 18.114148,-52.128231 33.208996,-52.128231 z" />
+    <g
+       id="g1">
+      <path
+         id="text1"
+         style="font-style:normal;font-weight:normal;font-size:105.833px;line-height:1.25;font-family:sans-serif;fill:#c906dd;fill-opacity:1;stroke:none;stroke-width:0.578549"
+         d="m 75.617362,179.3928 c -1.669397,0 -3.342419,0.18728 -5.283627,0.37529 l -15.45915,9.41587 c 3.231742,-1.30055 6.325008,-1.80031 8.075266,-1.80031 24.771918,0 41.661349,17.31291 76.567239,17.31291 16.88994,0 28.15061,-4.75684 38.56607,-14.84003 l -4.50428,-2.28244 c -5.91147,4.94648 -15.48199,6.65875 -23.36396,6.65875 -23.64593,0 -45.32166,-14.84004 -74.597558,-14.84004 z m -4.871275,0.15891 -0.06597,0.005 -0.180061,0.10965 c 0.08226,-0.0401 0.163809,-0.0744 0.246039,-0.11433 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:144.882px;line-height:1.25;font-family:sans-serif;fill:#c906dd;fill-opacity:1;stroke:none;stroke-width:0.362205"
+         x="-190.21555"
+         y="-128.13332"
+         id="text2"
+         transform="scale(-0.98590551,-1.014296)"><tspan
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144.882px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';fill:#c906dd;fill-opacity:1;stroke-width:0.362205"
+           x="-190.21555"
+           y="-128.13332"
+           sodipodi:role="line">V</tspan></text>
+      <path
+         id="text1-6"
+         style="font-style:normal;font-weight:normal;font-size:105.833px;line-height:1.25;font-family:sans-serif;fill:#c906dd;fill-opacity:1;stroke:none;stroke-width:0.409407"
+         d="m 81.797305,82.314602 c -16.981709,0 -31.887859,5.685432 -41.322152,15.776714 -7.547416,8.101454 -12.264606,16.203034 -12.264606,31.268884 0,25.015 19.812182,40.22277 45.284743,42.92325 -10.377711,4.26392 -20.001521,10.5176 -26.228155,16.20283 -1.3208,0.99492 -2.641242,2.13239 -3.395983,3.26943 l 6.981767,2.70036 c 2.075538,-2.27409 4.339063,-4.40594 6.791963,-6.25364 0.274168,-0.14297 0.541883,-0.23861 0.814447,-0.36088 l 10.362095,-7.03439 c -0.016,10e-4 -0.02799,0.003 -0.04332,0.004 0.05188,-0.0282 0.102879,-0.0524 0.154759,-0.0804 l 0.120693,-0.0819 0.04422,-0.004 c 8.756358,-4.72674 17.298558,-7.52321 23.077248,-8.64654 14.151406,-1.98983 25.471956,-7.95884 33.208066,-16.48669 6.79268,-7.67506 10.7555,-15.77705 10.7555,-28.85308 0,-27.573354 -23.58558,-44.344547 -54.341331,-44.344547 z m 0.64445,3.265867 c 21.698845,0 30.173415,15.247161 30.173415,41.683471 0,23.30944 -9.15538,41.29047 -28.02394,41.29047 -20.189365,0 -27.737266,-16.47539 -27.737266,-41.34827 0,-27.00483 10.492943,-41.625671 25.587791,-41.625671 z"
+         sodipodi:nodetypes="ccscccccccccccccsccsssss" />
+    </g>
   </g>
 </svg>
