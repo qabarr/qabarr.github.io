@@ -2,15 +2,15 @@
 title: Curriculum Vitae
 ---
 
-####**Education**
+**Education**
 - **Washington University in St. Louis**
-  Ph.D. in Physics:_X-rays from Warped Black Hole Accretion Disks  2020
+  Ph.D. in Physics: X-rays from Warped Black Hole Accretion Disks  2020
   Advisor: Henric Krawczynski
 
 - **DePauw University** in Greencastle, IN
   B.A in Physics, minors in Mathematics, Computer Science, and Astronomy
 
-####**Professional Experience
+**Professional Experience**
 - **Postdoctoral Research Fellow** 2021 - present
   University of Delaware & Bartol Research Institute
 
