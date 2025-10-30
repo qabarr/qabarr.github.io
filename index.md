@@ -4,6 +4,6 @@ title: Quin Abarr
 #feature_text: 
 ---
 
-I'm a postdoc at the University of Delaware, where I do astroparticle physics.
+I'm a postdoc at Ohio State University, where I do astroparticle physics.
 
 {% include figure.html image="/assets/images/quin_pingu.jpg" %}
