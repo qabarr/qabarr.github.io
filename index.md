@@ -6,4 +6,4 @@ title: Quin Abarr
 
 I'm a postdoc at Ohio State University, where I do astroparticle physics and sometimes meet penguins.
 
-{% include figure.html image="/assets/images/me_with_baby_keith.jpg" caption="Photo credit Cosmin Deaconu%}
+{% include figure.html image="/assets/images/me_with_baby_keith.jpg" caption="Photo credit Cosmin Deaconu" %}
