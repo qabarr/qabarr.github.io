@@ -25,7 +25,7 @@
   {
     "title": "Curriculum Vitae",
     "excerpt": "\n",
-    "content": "For a list of publications that will stay more up-to-date, check out my Google Scholar profile.\n\n\n\n",
+    "content": "Education\n\n  \n    Washington University in St. Louis\nPh.D. in Physics: X-rays from Warped Black Hole Accretion Disks  2020\nAdvisor: Henric Krawczynski\n  \n  \n    DePauw University in Greencastle, IN\nB.A in Physics, minors in Mathematics, Computer Science, and Astronomy\n  \n\n\nProfessional Experience\n\n  \n    Postdoctoral Researcher 2025 - present\nThe Ohio State University &amp; Center for Cosmology and AstroParticle Physics (CCAPP)\n  \n  \n    Postdoctoral Research Fellow 2021 - 2025\nUniversity of Delaware &amp; Bartol Research Institute\n  \n\n\nFor a list of publications that will stay more up-to-date, check out my Google Scholar profile.\n",
     "url": "/cv/"
   },
   
@@ -39,21 +39,21 @@
   {
     "title": "Quin Abarr",
     "excerpt": "\n",
-    "content": "I’m a physicist at the University of Delaware, where I do astroparticle physics when I’m not procrastinating.\n\n\n  \n  \n\n\n",
+    "content": "I’m a postdoc at Ohio State University, where I do astroparticle physics and sometimes meet penguins.\n\n\n  \n  \n\n\n",
     "url": "/"
   },
   
   {
     "title": "Other things",
     "excerpt": "\n",
-    "content": "When I’m not working, I enjoy:\n\n  Playing board games (check out my BoardGameGeek profile)\n  Watching movies (check out my Letterboxd profile)\n  Riding my bike through White Clay Creek State park\n  Solving crossword puzzles (one of my early pandemic projects was writing crosswords, and one day soon I will do it again and post them here)\n\n",
+    "content": "When I’m not working, I enjoy:\n\n  Playing board games (check out my BoardGameGeek profile)\n  Watching movies (check out my Letterboxd profile)\n  Riding my bike – often locally along the Olentangy Trail, but I’ve also taken multi-day trips on the C&amp;0 Canal Towpath, the 4 Rivers Trail in South Korea, and across Iowa on RAGBRAI 2026\n  Solving puzzles, like the NYT Crossword or monthly at Puzzled Pint\n\n",
     "url": "/personal/"
   },
   
   {
     "title": "Research",
     "excerpt": "\n",
-    "content": "Since fall of 2020 I’ve been in Newark, Delaware working on the PUEO project (and its predecessor ANITA), which is a balloon-borne neutrino detector that flies over Antarctica with the aim of detecting radio signals produced by ultrahigh energy neutrinos interacting in the ice sheet. I primarily work on the navigation subsystem, which is the most critical part of the experiment – you can’t know where any signals are coming from if you don’t know where the payload is and how it’s oriented! A decent chunk of my time is also spent working on the simulation software for PUEO.\n\nBefore this, I was a graduate student at Washington University in St. Louis. I worked on a different balloon experiment, X-Calibur, which detects polarized X-rays in order to learn about the geometry of compact objects such as black holes and neutron stars. I went to Antarctica for the launch of X-Calibur in 2018, where we got enough data to get a grant for XL-Calibur, which flew from Sweden across the ocean into Canada after I left the project.\n\n\n  \n  A photo I took of X-Calibur in McMurdo Station, Antarctica, awaiting launch. December 2018\n\n\n",
+    "content": "Since fall of 2020 I’ve been working on the PUEO project (and its predecessor ANITA); first at the University of Delaware, and since September 2025 at Ohio State University. PUEO is a balloon-borne neutrino detector that flew over Antarctica in the austral summer 2025-2026 with the aim of detecting radio signals produced by ultrahigh energy neutrinos interacting in the ice sheet. I primarily work on the navigation subsystem, which is the most critical part of the experiment – you can’t know where any signals are coming from if you don’t know where the payload is and how it’s oriented! A decent chunk of my time is also spent working on the simulation software for PUEO.\n\n\n  \n  \n\n\nBefore this, I was a graduate student at Washington University in St. Louis. I worked on a different balloon experiment, X-Calibur, which detects polarized X-rays in order to learn about the geometry of compact objects such as black holes and neutron stars. I went to Antarctica for the launch of X-Calibur in 2018, where we got enough data to get a grant for XL-Calibur, which flew from Sweden across the ocean into Canada after I left the project.\n\n\n  \n  A photo I took of X-Calibur in McMurdo Station, Antarctica, awaiting launch. December 2018\n\n\n",
     "url": "/research/"
   }
   

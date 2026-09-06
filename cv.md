@@ -11,7 +11,10 @@ title: Curriculum Vitae
   B.A in Physics, minors in Mathematics, Computer Science, and Astronomy
 
 **Professional Experience**
-- **Postdoctoral Research Fellow** 2021 - present
+- **Postdoctoral Researcher** 2025 - present
+  The Ohio State University & Center for Cosmology and AstroParticle Physics (CCAPP) 
+
+- **Postdoctoral Research Fellow** 2021 - 2025
   University of Delaware & Bartol Research Institute
 
 For a list of publications that will stay more up-to-date, check out my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=8kkRMngAAAAJ){:target="_blank" :rel="noopener noreferrer"}.
